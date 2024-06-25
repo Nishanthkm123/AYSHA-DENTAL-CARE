@@ -49,7 +49,7 @@ const Menu = () => {
                       to="/about"
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-black hover:opacity-75"
                     >
-                      About Us
+                      About Clinic 
                     </Link>
                   </li>
                   <li className="nav-item">
